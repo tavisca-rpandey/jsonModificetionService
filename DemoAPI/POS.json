@@ -1,0 +1,17 @@
+{
+  "id": null,
+  "dedupeStrategy": "CheapestWithBrandedFare",
+  "scheduleChangeCancel": {
+    "isEnabled": true,
+    "cancelTimeWindow": "04:00EST+0",
+    "airlinesAllowed": [
+      "AA",
+      "DL",
+      "UA",
+      "AS",
+      "B6",
+      "HA"
+    ]
+  },
+  "isScheduleChangeDuringBookEnabled": true
+}
